@@ -1,8 +1,8 @@
 x=5j
-x="Rahul"
+x="Lakshmi"
 x=True
 x=frozenset({"One","Two","Three"})
-x={"firstname":"Rahul","lastname":"Arora"}
+x={"firstname":"Lakshmi","lastname":"Malempati"}
 
 print(type(x))
 print(isinstance(x,int))
