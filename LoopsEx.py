@@ -20,7 +20,7 @@ For Loop -->
 """
 
 
-sequence = "Rahul"
+sequence = "Mandrin"
 i=0
 for x in sequence:
     print("The character preset at {}, index - {}".format(i,x))
@@ -47,7 +47,7 @@ for x in List:
 print("The Sum is : ",sum)
 
 
-string = "My Name is Rahul"
+string = "My Name is Mandrin"
 
 s = string.split(" ")
 print("type of s is:",type(s))

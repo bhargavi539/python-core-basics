@@ -60,5 +60,5 @@ else:
     print("All items are successfully processed..")
 #
 #
-# for x in "Rahul":
+# for x in "Mandrin":
 #     pass
